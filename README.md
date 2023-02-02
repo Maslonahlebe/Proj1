@@ -1,20 +1,28 @@
 #простой калькулятор на python
 
 #Инструкция сложения
+
 def summa(ch1, ch2):
-    return ch1 + ch2
+
+return ch1 + ch2
 
 #Инструкция вычитания
+
 def minus(ch1, ch2):
-    return ch1 - ch2
+
+return ch1 - ch2
 
 #Инструкция умножения
+
 def umnoz(ch1, ch2):
-    return ch1 * ch2
+
+return ch1 * ch2
 
 #Инструкция деления
+
 def delen(ch1, ch2):
-    return ch1 / ch2
+
+return ch1 / ch2
  
 print("Выберите номер желаемой операции -\n" \
         "1. Сложение\n" \
